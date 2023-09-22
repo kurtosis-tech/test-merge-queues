@@ -18,7 +18,7 @@ concurrency:
 
 jobs:
   title_check:
-    # we want this job to be skipped on merge queue PRs
+    # we want this job to be skipped on merge queue branches
     if: contains(github.ref_name, 'gh-readonly-queue/main/') != true
 
     runs-on: ubuntu-latest
