@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.0.3](https://github.com/kurtosis-tech/test-merge-queues/compare/0.0.2...0.0.3) (2023-09-22)
+
+
+### Features
+
+* Update say hello ([#10](https://github.com/kurtosis-tech/test-merge-queues/issues/10)) ([5379188](https://github.com/kurtosis-tech/test-merge-queues/commit/53791882894e3aa35294043c945cae76d258de75))
+
 ## [0.0.2](https://github.com/kurtosis-tech/test-merge-queues/compare/0.0.1...0.0.2) (2023-09-22)
 
 
